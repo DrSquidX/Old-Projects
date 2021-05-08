@@ -1,3 +1,4 @@
+# My first ever python script!
 print("Hello there")
 print("                 ________________")
 print("        /|      |                |                 ")
