@@ -1,3 +1,4 @@
+# This was before I properly knew how to use classes(you can see improper and unecessary usage).
 import socket
 import time
 import math
