@@ -7,4 +7,6 @@ I might go looking for old scripts on my laptop that I used to program on, and I
 # Why?
 Not sure. I just get bored a lot so yeah. Yes, these scripts are trash(I laughed at some of my old dev notes).
 
+When you are done looking at these old scripts, please check out some of my other scripts: https://github.com/DrSquidX
+
 # Happy Playing Around, DrSquidX
