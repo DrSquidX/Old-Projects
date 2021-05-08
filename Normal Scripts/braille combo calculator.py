@@ -3,7 +3,7 @@ import math
 def power(x, y): #function
   return math.pow(x, y) #raises x to the power of y(basically utilizing this to raise things to powers)
 ask = True #loop
-print("Braille Calculator 1.0 By Adrian Fang")
+print("Braille Calculator 1.0 By DrSquidX")
 while ask: #main loop
   try:
       x = 2 #the 2 in the formula
